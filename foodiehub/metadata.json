@@ -1,0 +1,6 @@
+{
+  "name": "FoodieHub",
+  "description": "Online Food Ordering Database System with menu catalog, shopping cart, demo checkout, live order tracking, and admin analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
